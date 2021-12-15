@@ -1,3 +1,9 @@
 # BMI-BMR_Calculator
    
-Android application for calculatiing BMI & BMR and storing it in DB?
+Android application for calculating BMI & BMR.
+Using SQLite DB;
+
+Methods used:
+  - LayoutInflater
+  - RecyclerAdapter
+  - ItemTouchHelper
